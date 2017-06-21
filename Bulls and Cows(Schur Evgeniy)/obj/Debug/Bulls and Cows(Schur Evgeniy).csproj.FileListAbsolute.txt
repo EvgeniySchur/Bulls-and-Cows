@@ -1,0 +1,12 @@
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).exe.config
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).pdb
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v4\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).pdb
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).exe.config
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).pdb
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\obj\Debug\Bulls and Cows(Schur Evgeniy).csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v5\Bulls and Cows(Schur Evgeniy)\Bulls and Cows(Schur Evgeniy)\bin\Debug\Bulls and Cows(Schur Evgeniy).pdb

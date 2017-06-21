@@ -1,0 +1,27 @@
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+C:\C#\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows( Schur Evgeniy).csprojResolveAssemblyReference.cache
+C:\Users\evgeniy\OneDrive\Проект\Chess_of_Fate\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+C:\Users\evgeniy\OneDrive\Проект\Chess_of_Fate\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+C:\Users\evgeniy\OneDrive\Проект\Chess_of_Fate\Bulls and Cows Schur Evgeniy\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+C:\Projects\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+C:\Projects\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+C:\Projects\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+C:\Projects\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows( Schur Evgeniy).csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows( Schur Evgeniy).csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows!.exe.config
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows!.exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows!.pdb
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows!.exe
+G:\C#\Univercity\Bulls and Cows Schur Evgeniy_v3\BullsAndCows\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows!.pdb

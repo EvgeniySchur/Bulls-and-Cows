@@ -1,0 +1,6 @@
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe.config
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\bin\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.exe
+G:\C#\Univercity\Bulls and Cows The Game!\Bulls and Cows! From the great creator Schur EvGenius\obj\Debug\Bulls and Cows! From the great creator Schur EvGenius.pdb
