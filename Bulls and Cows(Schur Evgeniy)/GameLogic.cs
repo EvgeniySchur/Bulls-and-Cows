@@ -12,7 +12,9 @@ namespace Bulls_and_Cows
         public const int Attempts = 10;
         public const int SeqenceLength = 4;
         int _firstNumSeq = 0;
+
         public string SetSequence() => RangeOfValues()[new Random().Next(RangeOfValues().Count-1)];
+
         public List<string> RangeOfValues()
         {
             var set = new List<string>(Enumerable.Range(_firstNumSeq, OrederOFMagnitude()).Select(c => $"{c:D4}".ToString()));
