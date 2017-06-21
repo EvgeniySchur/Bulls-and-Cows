@@ -84,7 +84,7 @@ namespace Bulls_and_Cows
 
                 Func<string, bool> evaluation = (a) =>
                 {
-                    int[] chekValue = new int[2];
+                    int[] checkValue = new int[2];
                     if (!(Char.IsDigit(a[0]))) return true;
                     else if (int.Parse(answer[0].ToString()) > SeqenceLength || int.Parse(answer[0].ToString())< default(int)) return true;
                     if (a[1] != 'b') return true;
